@@ -1,12 +1,12 @@
 .nav-top{
-    background-color: rgb(0, 0, 0) !important;
+    background-color: rgb(47, 47, 114) !important;
 }
 
 .nav-link{
     color: white !important;
 }
 footer{
-    background-color: rgb(0, 0, 0) !important;
+    background-color: rgb(47, 47, 114) !important;
     text-align: center !important;
     color: white !important;
 }
@@ -21,4 +21,8 @@ footer{
     color: white !important;
     padding: 3em !important;
     margin-bottom: 5em !important;
+}
+
+.carousel-caption{
+    background-color: rgba(129, 129, 129, 0.582);
 }
